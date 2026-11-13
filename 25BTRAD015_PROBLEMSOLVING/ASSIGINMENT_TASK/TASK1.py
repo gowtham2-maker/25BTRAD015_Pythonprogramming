@@ -1,1 +1,6 @@
-
+Name=input(&quot;Enter your name: &quot;)
+Department=input(&quot;Enter your department: &quot;)
+College=input(&quot;Enter your college: &quot;)
+print(&quot;Name:&quot;,Name)
+print(&quot;Department:&quot;,Department)
+print(&quot;College:&quot;,College)
