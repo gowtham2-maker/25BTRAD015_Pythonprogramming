@@ -25,7 +25,7 @@ class BankAccount:
  
  
 def main():
-    account = BankAccount("Mathavan", 1000.00)
+    account = BankAccount("gowtham", 1000.00)
     account.check_balance()
     account.deposit(500)
     account.withdraw(200)
